@@ -21,7 +21,7 @@ Text
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/36a4a70e-e200-49fa-a791-5a7ddb3d596e)
+![Image](https://github.com/user-attachments/assets/fc888d44-b0c7-498d-a40a-790bca77fae3)
 
 ## 100 - Introduction
 
