@@ -1,5 +1,5 @@
-features-management
-# Features Management
+feature-management
+# Feature Management
 
 > Slugline
 
