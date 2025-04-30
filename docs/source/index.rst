@@ -1,5 +1,5 @@
-Welcome to Features Management Documentation
-=============================================
+Welcome to Feature Management Documentation
+============================================
 
 .. toctree::
    :maxdepth: 2
