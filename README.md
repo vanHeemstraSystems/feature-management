@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/feature-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/feature-management/actions/workflows/publish.yml)
+
 feature-management
 # Feature Management
 
@@ -21,7 +23,7 @@ Text
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/fc888d44-b0c7-498d-a40a-790bca77fae3)
+<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/405838db-c497-4dc8-b0c8-78bb185eb45c" />
 
 ## 100 - Introduction
 
